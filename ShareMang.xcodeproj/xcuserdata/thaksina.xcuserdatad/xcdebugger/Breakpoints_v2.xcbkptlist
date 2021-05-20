@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "91F5221C-DB70-4E3F-806A-C09214D2831F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB050E57-E59C-400D-AED5-43D5F2C17E2A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShareMang/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "FB050E57-E59C-400D-AED5-43D5F2C17E2A - 9a99cac1c40f8645"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShareMang.ContentView.init(email: Swift.String, pass: Swift.String) -&gt; ShareMang.ContentView"
+                  moduleName = "ShareMang"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thaksina/Desktop/mobile/ShareMang/ShareMang/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "FB050E57-E59C-400D-AED5-43D5F2C17E2A - 82bfc4231e3b58f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShareMang.ContentView.init() -&gt; ShareMang.ContentView"
+                  moduleName = "ShareMang"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thaksina/Desktop/mobile/ShareMang/ShareMang/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

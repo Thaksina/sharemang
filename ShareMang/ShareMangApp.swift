@@ -6,9 +6,12 @@
 //
 
 import SwiftUI
+import Firebase
 
-@main
 struct ShareMangApp: App {
+    init(){
+        FirebaseApp.configure()
+    }
     var body: some Scene {
         WindowGroup {
             ContentView()
